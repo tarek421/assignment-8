@@ -1,0 +1,34 @@
+.team img {
+    height: 250px;
+    padding: 20px;
+}
+.sectionStyle{
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.75;
+    background-position: center;
+}
+.team .rounded{
+    border-radius: 1.25rem !important;
+}
+.team .bg-primary{
+    background-color: #e9e9f1eb !important;
+    color: black;}
+.social-icon{
+    text-align: center;
+    background: #030a29db;
+}
+.social-icon a {
+    font-size: 40px;
+    margin: 15px;
+}
+.team-detail{
+    margin-left: 30px;
+}
+h6 svg {
+    margin: 0 10px;
+    font-size: 16px;
+    color: black;
+}
